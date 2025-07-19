@@ -37,14 +37,16 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 🧑‍💻 How to Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Snehasich/SCT_WD_2.git
+# 📥 Clone this repository:
+git clone https://github.com/Snehasich/SCT_WD_2.git
 
-2. Navigate to the folder:
-   ```bash
-   cd calculator-app
+# 📂 Navigate into the folder:
+cd SCT_WD_2
 
-3. Open index.html in your browser:
-   ```bash
-   start index.html
+# 🌐 Open index.html in your default browser:
+start index.html   # On Windows
+
+# OR if you're on Mac or Linux:
+open index.html    # macOS
+xdg-open index.html  # Linux
+
