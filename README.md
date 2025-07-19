@@ -17,7 +17,7 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 🚀 Live Demo
 
-👉 [Try it here](https://Snehasich.github.io/SCT_WD_2/)
+👉 [Try it here](https://snehasich.github.io/SCT_WD_2/)
 
 ---
 
