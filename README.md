@@ -17,7 +17,7 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 🚀 Live Demo
 
-👉 [Try it here](https://vel-calculator.netlify.app)
+👉 [Try it here](https://Snehasich.github.io/SCT_WD_2/)
 
 ---
 
