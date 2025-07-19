@@ -31,7 +31,7 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 📸 Screenshot
 
-![Calculator Preview](./screenshot.png)
+![Calculator Preview](./calculator.png)
 
 ---
 
@@ -39,8 +39,7 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-Navigate to the folder:
+   git clone https://github.com/Snehasich/SCT_WD_2.git
 
 2. Navigate to the folder:
    ```bash
