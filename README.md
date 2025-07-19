@@ -24,7 +24,7 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 ## 🛠️ Tech Stack
 
 - 🌐 HTML5  
-- 🎨 CSS3 & Bootstrap 5  
+- 🎨 CSS3
 - ⚙️ JavaScript (Vanilla)
 
 ---
@@ -37,16 +37,14 @@ A simple, user-friendly calculator web app built using **HTML**, **CSS**, and **
 
 ## 🧑‍💻 How to Run Locally
 
-# 📥 Clone this repository:
-git clone https://github.com/Snehasich/SCT_WD_2.git
+1. 📥 Clone this repository:
+  git clone https://github.com/Snehasich/SCT_WD_2.git
 
-# 📂 Navigate into the folder:
-cd SCT_WD_2
+2. 📂 Navigate into the folder:
+  cd SCT_WD_2
 
-# 🌐 Open index.html in your default browser:
-start index.html   # On Windows
-
-# OR if you're on Mac or Linux:
-open index.html    # macOS
-xdg-open index.html  # Linux
+3. 🌐 Open index.html in your default browser:
+  start index.html   # On Windows
+  open index.html    # macOS
+  xdg-open index.html  # Linux
 
